@@ -1,0 +1,4 @@
+echo test ls
+ls -a -l
+echo test programu
+./test1
