@@ -1,0 +1,1 @@
+Special repository dedicated to solutions of Operating Systems' tasks.
